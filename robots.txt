@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ibvuda.koi888win.online/sitemap.xml
